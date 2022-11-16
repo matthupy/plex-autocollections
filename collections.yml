@@ -24,6 +24,8 @@ Back to the Future:
   - ^Back to the Future(.+?Part (I{2,3}|[2-3]))?$
 Before...:
   - ^Before (Sunrise|Sunset|Midnight)$
+Black Panther:
+  - ^Black Panther(.+? Wakanda Forever)?
 Bo Burnham:
   - Bo Burnham.+?(What\.|Make Happy|Words, Words, Words|Comedy Central Presents)
 Bridget Jones:
