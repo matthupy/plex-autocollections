@@ -14,11 +14,12 @@ Anchorman:
 Annabelle: &annabelle
   - ^Annabelle( \d)?$
   - ^Annabelle.+?Creation
+Ant-Man Collection:
+  - ^Ant-Man( and the Wasp)?
 Atlas Shrugged:
   - Atlas Shrugged Part I{0,3}
-Avengers:
-  - ^The Avengers
-  - ^Avengers.+? (Age of Ultron|Infinity War|Endgame)
+Avengers Collection:
+  - ^(The )?Avengers(.+? )?(Age of Ultron|Infinity War|Endgame)?
 Back to the Future:
   - ^Back to the Future(.+?Part (I{2,3}|[2-3]))?$
 Before...:
