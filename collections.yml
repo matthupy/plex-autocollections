@@ -14,11 +14,11 @@ Anchorman:
 Annabelle: &annabelle
   - ^Annabelle( \d)?$
   - ^Annabelle.+?Creation
-Ant-Man Collection:
+Ant-Man:
   - ^Ant-Man( and the Wasp)?
 Atlas Shrugged:
   - Atlas Shrugged Part I{0,3}
-Avengers Collection:
+Avengers:
   - ^(The )?Avengers(.+? )?(Age of Ultron|Infinity War|Endgame)?
 Back to the Future:
   - ^Back to the Future(.+?Part (I{2,3}|[2-3]))?$
@@ -77,7 +77,7 @@ Hangover:
   - ^The Hangover(.+?Part (I{2,3}|\d))?$
 Happy Death Day:
   - ^Happy Death Day( 2U)?$
-Harry Potter Collection:
+Harry Potter:
   - Harry Potter and the (Sorcerer.*?s|Philosopher.*?s) Stone
   - Harry Potter and the (Chamber of Secrets|Prisoner of Azkaban|Goblet of Fire|Order of the Phoenix|Half.*?Blood Prince)
   - Harry Potter and the Deathly Hallows(.+?Part ([1-2]))?$
@@ -143,7 +143,7 @@ LEGO:
   - Lego Scooby-Doo.*Haunted Hollywood
 Now You See Me:
   - Now You See Me( \d)?
-Oceans Series:
+Ocean's:
   - Ocean.*?s (Eleven|Twelve|Thirteen|Eight)
 Pacific Rim:
   - ^Pacific Rim$
