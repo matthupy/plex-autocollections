@@ -151,6 +151,18 @@ LEGO:
   - The Lego Batman Movie
   - ^LEGO DC.*
   - Lego Scooby-Doo.*Haunted Hollywood
+Marvel Cinematic Universe:
+  - ^Ant-Man( and the Wasp)?
+  - ^(The )?Avengers(.+? )?(Age of Ultron|Infinity War|Endgame)?
+  - ^Black Panther(.+? Wakanda Forever)?
+  - ^Captain America.+? (The First Avenger|The Winter Soldier|Civil War)
+  - ^Captain Marvel
+  - ^Doctor Strange( in the Multiverse of Madness)?
+  - ^Guardians of the Galaxy( Vol. \d)?
+  - ^The Incredible Hulk
+  - ^Iron Man( \d)?$
+  - ^Spider-Man.*? (Homecoming|Far from Home|No Way Home)
+  - ^Thor(.*? )?(Ragnarok|Love and Thunder)?
 Now You See Me:
   - Now You See Me( \d)?
 Ocean's:
