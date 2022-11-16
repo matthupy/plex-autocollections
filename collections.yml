@@ -37,6 +37,8 @@ British Gangster:
   - Layer Cake
 Captain America:
   - ^Captain America.+? (The First Avenger|The Winter Soldier|Civil War)
+Captain Marvel:
+  - ^Captain Marvel
 Cars:
   - ^Cars(\s\d)?$
 Child's Play:
@@ -63,6 +65,8 @@ Die Hard:
 Divergent:
   - ^Divergent$
   - ^(The Divergent Series.*?)?(Insurgent|Allegiant)$
+Doctor Strange:
+  - ^Doctor Strange( in the Multiverse of Madness)?
 Ernest: &ernest
   - Ernest.+?(Goes to Camp|Saves Christmas|Scared Stupid|Goes to Jail|Rides Again|in the Army|Goes to Africa|Goes to School)
   - Slam Dunk Ernest
@@ -75,6 +79,8 @@ Final Destination:
 Goosebumps:
   - ^Goosebumps$
   - ^Goosebumps 2.+?Haunted Halloween
+Guardians of the Galaxy:
+  - ^Guardians of the Galaxy( Vol. \d)?
 Hangover:
   - ^The Hangover(.+?Part (I{2,3}|\d))?$
 Happy Death Day:
@@ -85,6 +91,8 @@ Harry Potter:
   - Harry Potter and the Deathly Hallows(.+?Part ([1-2]))?$
 How to Train Your Dragon:
   - How to Your Dragon( \d)?$
+Hulk:
+  - ^The Incredible Hulk
 Independence Day:
   - ^Independence Day$
   - ^Independence Day.+?Resurgence
@@ -169,6 +177,10 @@ Saw:
   - Jigsaw
 Scary Movie:
   - ^Scary Movie( \d)?$
+Spider-Man (Marvel):
+  - ^Spider-Man.*? (Homecoming|Far from Home|No Way Home)
+Spider-verse:
+  - ^Spider-Man.*? (Into the Spider-Verse | Across the Spider-Verse)
 Star Trek:
   - Star Trek
   - Star Trek Into Darkness
@@ -250,6 +262,8 @@ The Matrix:
   - The Matrix
   - The Matrix Reloaded
   - The Matrix Revolutions
+Thor:
+  - ^Thor(.*? )?(Ragnarok|Love and Thunder)?
 Three Flavours Cornetto Trilogy:
   - ^Shaun of the Dead$
   - ^Hot Fuzz$
@@ -272,6 +286,8 @@ Underworld:
   - Underworld.+?Rise of the Lycans
   - Underworld.+?Awakening
   - Underworld.+?Blood Wars
+Venom:
+  - ^Venom(.+? )?(Let There Be Carnage)?
 Wreck-It Ralph:
   - ^Wreck-It Ralph
   - ^Ralph Breaks the Internet
