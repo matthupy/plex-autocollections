@@ -85,6 +85,8 @@ Indiana Jones:
   - Temple of Doom
   - The Last Crusade
   - Kingdom of the Crystal Skull
+Iron Man:
+  - ^Iron Man( \d)?$
 James Bond:
   - Dr\. No
   - From Russia with Love
