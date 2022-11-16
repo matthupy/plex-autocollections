@@ -29,6 +29,8 @@ British Gangster:
   - Lock, Stock and Two Smoking Barrels
   - Snatch
   - Layer Cake
+Captain America:
+  - ^Captain America.+? (The First Avenger|The Winter Soldier|Civil War)
 Cars:
   - ^Cars(\s\d)?$
 Child's Play:
