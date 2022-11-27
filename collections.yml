@@ -1,9 +1,16 @@
+300:
+  - ^300(.+? Rise of an Empire)
 Addams Family:
   - ^The Addams Family$
   - Addams Family (Values|Reunion)?$
+Airplane!:
+  - ^Airplane (!|II.+? The Sequel)
 Alice in Wonderland:
-  - Alice in Wonderland {{2010}}
-  - Alice Through the Looking Glass
+  - ^Alice in Wonderland {{2010}}
+  - ^Alice Through the Looking Glass
+Alien:
+  - ^Alien(s|³|.+? Resurrection|.+? Covenant)
+  - ^Prometheus
 American Pie:
   - ^American Pie( 2)?$
   - American (Reunion|Wedding)
@@ -182,9 +189,9 @@ Marvel Multiverse Saga:
   - ^Black Widow
   - ^Shang-Chi and the Legend of the Ten Rings
   - ^Eternals
-  - ^Spider-Man: No Way Home
+  - ^Spider-Man.+? No Way Home
   - ^Doctor Strange in the Multiverse of Madness
-  - ^Thor: Love and Thunder
+  - ^Thor.?+ Love and Thunder
 Now You See Me:
   - Now You See Me( \d)?
 Ocean's:
